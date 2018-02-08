@@ -1,0 +1,8 @@
+--color
+
+--pager
+less -r
+
+--type-add=docker:match:/^Dockerfile.*/
+
+
